@@ -1,6 +1,6 @@
 ## Hey 👋 What's Up?
 
-Eu sou Caue, um estudante de tecnologia cursando duas graduações:
+Eu sou o Caue, um estudante de tecnologia cursando duas graduações:
 * **Análise e Desenvolvimento de Sistemas** (4º semestre) na UCPEL
 * **Ciência da Computação** (3º semestre) na UFPEL
 
@@ -13,10 +13,10 @@ Sou apaixonado por desenvolvimento Back-End com foco em **Java**, explorando des
 
 ### 📫 Como me encontrar
 <p align="left">
-  <a href="mailto:[SEU-EMAIL@gmail.com]" target="_blank">
+  <a href="mailto:[caue7896@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/[SEU-LINK-DO-LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/cau%C3%AA-bernardo-portela-669a61271/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
