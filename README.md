@@ -4,10 +4,10 @@ Eu sou o Caue, um estudante de tecnologia cursando duas graduações:
 * **Análise e Desenvolvimento de Sistemas** (4º semestre) na UCPEL
 * **Ciência da Computação** (3º semestre) na UFPEL
 
-Sou apaixonado por desenvolvimento Back-End com foco em **Java**, explorando desde os fundamentos da POO até a construção de aplicações web (atualmente estudando Servlets e Java).
+Sou apaixonado por desenvolvimento Back-End com foco em **Java**, explorando desde os fundamentos da POO até a construção de aplicações web (atualmente estudando Spring). 
+Também Estou estudando GraphQL e integração de APIs, desenvolvendo serviços com NestJS e TypeORM.
 
--  Estou sempre aprendendo e buscando me aprofundar em APIs REST e frameworks como Spring Boot.
--  Buscando minha primeira oportunidade no mercado para aplicar meu conhecimento e crescer como desenvolvedor.
+
 
 ---
 
