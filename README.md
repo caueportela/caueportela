@@ -1,7 +1,7 @@
 ## Hey 👋 What's Up?
 
 Eu sou o Caue, um estudante de tecnologia cursando duas graduações:
-* **Análise e Desenvolvimento de Sistemas** (4º semestre) na UCPEL
+* **Análise e Desenvolvimento de Sistemas** (5º semestre) na UCPEL
 * **Ciência da Computação** (3º semestre) na UFPEL
 
 Sou apaixonado por desenvolvimento Back-End com foco em **Java**, explorando desde os fundamentos da POO até a construção de aplicações web (atualmente estudando Spring). 
