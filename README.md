@@ -1,11 +1,10 @@
 ## Hey 👋 What's Up?
 
 Eu sou o Caue, um estudante de tecnologia cursando duas graduações:
-* **Análise e Desenvolvimento de Sistemas** (5º semestre) na UCPEL
-* **Ciência da Computação** (3º semestre) na UFPEL
+* **Análise e Desenvolvimento de Sistemas** (6º semestre) na UCPEL
+* **Ciência da Computação** (5º semestre) na UFPEL
 
-Sou apaixonado por desenvolvimento Back-End com foco em **Java**, explorando desde os fundamentos da POO até a construção de aplicações web (atualmente estudando Spring). 
-Também Estou estudando GraphQL e integração de APIs, desenvolvendo serviços com NestJS e TypeORM.
+Sou Desenvolvedor Back-End atuando desenvolvendo serviços com NestJS e TypeORM.
 
 
 
