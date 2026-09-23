@@ -3,7 +3,7 @@
 building APIs and services with **TypeScript**, **Node.js** and **NestJS**, and also working with **Python** (Django), **Java** and **PostgreSQL**. based in , Brazil 🇧🇷
 
 * 🎓 **Systems Analysis and Development** (6th semester) at UCPel
-* 🎓 **Computer Science** at UFPel (on hold)
+* 🎓 **Computer Science** at UFPel 
 * 🔧 Day to day: REST APIs, GraphQl relational databases and back-end architecture
 
 ---
